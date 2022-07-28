@@ -14,4 +14,4 @@ Topics covered:
   * Statsmodels 
   
   including:
-  * Regression analysis
+  * Regression analysis predicting coronary heart disease
