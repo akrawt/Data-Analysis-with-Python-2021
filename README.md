@@ -1,8 +1,6 @@
-# Data-Analysis-with-Python-2021
-
+# Data Analysis with Python
 ## 7 week MOOC-course offered by the University of Helsinki. 
-### Workload equivalent to 5 ECTS 
-Info: https://studies.helsinki.fi/courses/cur/otm-87cb8f77-2e24-45cf-a546-341a0b1c3eaf
+![image](https://user-images.githubusercontent.com/72939907/187942040-019fa2bb-e136-4b78-a930-ba5859ad938e.png)
 
 The course uses practical approach to different phases of data analysis pipeline: data fetching and cleaning, reshaping, subsetting, grouping, and combining data; and using aggregation, machine learning and data visualization to extract knowledge from data.
 
